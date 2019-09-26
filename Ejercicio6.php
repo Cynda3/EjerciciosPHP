@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Ejericio 1</title>
+	<title>Ejericio 6</title>
 </head>
 <body>
 	<?php

@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Ejericio 1</title>
+	<title>Ejericio 7</title>
 </head>
 <body>
 	<?php
@@ -17,7 +17,10 @@
 	}
 		echo "$num </br>";
 
+	
+
 	?>
+
 
 </body>
 </html>
